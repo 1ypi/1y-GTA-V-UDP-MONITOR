@@ -7,7 +7,7 @@ A real-time network monitoring tool that detects and tracks GTA V multiplayer se
 - **Real-time Session Detection** - Monitors UDP traffic on GTA V ports (6672, 61455-61458)
 - **Player Geolocation** - Shows approximate location of detected players
 - **Live Statistics** - Active players, session totals, packet counts, and uptime
-- **Animated Interface** - Cyberpunk-themed GUI with typing animations
+- **Animated Interface** - Nice looking GUI
 - **Traffic Analysis** - Enhanced packet filtering and validation
 - **Session Management** - Tracks player join/leave events with timestamps
 
