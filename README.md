@@ -75,7 +75,7 @@ For Windows, you'll need **Npcap** (WinPcap successor):
 
 #### Step 4: Download the Monitor
 1. Clone this repository or download the Python file
-2. Save it as `gta_monitor.py` in a folder of your choice
+2. Save it as `1y.py` in a folder of your choice
 
 ## Usage
 
@@ -94,12 +94,12 @@ For Windows, you'll need **Npcap** (WinPcap successor):
      ```
    - Run the monitor:
      ```cmd
-     python gta_monitor.py
+     python 1y.py
      ```
 
 2. **Alternative: Create Administrator Shortcut**
    - For executable: Right-click `1y.exe` → "Create shortcut" → Right-click shortcut → "Properties" → "Advanced" → Check "Run as administrator"
-   - For Python: Right-click `gta_monitor.py` → "Create shortcut" → Right-click shortcut → "Properties" → Click "Advanced" → Check "Run as administrator"
+   - For Python: Right-click `1y.py` → "Create shortcut" → Right-click shortcut → "Properties" → Click "Advanced" → Check "Run as administrator"
 
 ### Using the Interface
 
