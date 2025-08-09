@@ -13,7 +13,7 @@ A real-time network monitoring tool that detects and tracks GTA V multiplayer se
 
 ## Screenshots
 
-![GTA V Monitor Interface](https://via.placeholder.com/800x600/0a0a0a/00ff41?text=GTA+V+UDP+Monitor)
+![GTA V Monitor Interface](ignore/image.png)
 
 ## Requirements
 
