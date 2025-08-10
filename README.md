@@ -1,3 +1,7 @@
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://python.org)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0)
+
 # GTA V UDP Session Monitor NPCAP REQUIRED!
 
 A real-time network monitoring tool that detects and tracks GTA V multiplayer sessions by analyzing UDP traffic patterns. Features an animated GUI interface with player geolocation, session statistics, and live traffic analysis.
